@@ -62,12 +62,3 @@ python -m evaluation.run --models knowledge_based rag llm_prompting
 ```
 
 Review `evaluation/ANNOTATION.md` for manual answer-quality annotations. Report category macro-F1 by language, retrieval Hit@1/Hit@3/MRR, answer correctness, latency, and at least 10 categorized failures. Run evaluation on a held-out set; do not claim final accuracy until all models are tested. Fine-tuning is excluded by project scope and requires a brief rubric justification.
-
-## SDAIA lab mapping
-
-- **Day 1:** Arabic preprocessing, multilingual embeddings, similarity search.
-- **Day 2 `D2_2_prompting_structured_outputs`:** role prompting, few-shot prompting, output formatting.
-- **Day 2 `D2_3_rag`:** local embeddings, dense retrieval, BM25, RRF, grounded generation.
-- **Day 3:** evaluation and Gradio deployment patterns.
-
-Cross-encoder reranking is optional (`RAG_RERANK=1`). JSON repair and citation checking are not implemented. Original course knowledge-base content is preserved.
