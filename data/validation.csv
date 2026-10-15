@@ -1,0 +1,34 @@
+ticket_id,text,lang,gold_category,source,intent
+EN027,How can I delete my account?,en,account,authored_demonstration,
+EN039,Where are email subscription settings?,en,newsletter,authored_demonstration,
+AR091,أين يمكنني إضافة مراجعة للمنتج؟,ar,feedback,course_arabic_tickets,review
+EN031,Where can I reach support?,en,contact,authored_demonstration,
+AR010,العنوان غلط في الطلب ابي اغيره لحي النرجس,ar,shipping,course_arabic_tickets,change_shipping_address
+EN006,When will delivery arrive?,en,shipping,authored_demonstration,
+EN004,How do I place an order?,en,orders,authored_demonstration,
+AR028,وش الشروط عشان ارجع القطعة واسترد فلوسي؟,ar,refunds,course_arabic_tickets,check_refund_policy
+AR021,ما هي طرق الدفع المتاحة لديكم؟,ar,payments,course_arabic_tickets,check_payment_methods
+EN009,When will my refund arrive?,en,refunds,authored_demonstration,
+AR031,أرغب في تقديم شكوى رسمية على الموظف,ar,feedback,course_arabic_tickets,complaint
+AR042,كيف اسوي حساب عندكم؟,ar,account,course_arabic_tickets,create_account
+AR044,ودي افتح حساب جديد بإيميلي,ar,account,course_arabic_tickets,create_account
+AR027,هل يمكن استرداد المبلغ للمنتجات المخفضة؟,ar,refunds,course_arabic_tickets,check_refund_policy
+AR102,وين طلبي؟ صار له أسبوع,ar,orders,course_arabic_tickets,track_order
+AR041,أريد إنشاء حساب جديد,ar,account,course_arabic_tickets,create_account
+EN033,I want to leave feedback.,en,feedback,authored_demonstration,
+AR083,كيف أعيد تعيين كلمة المرور؟,ar,account,course_arabic_tickets,recover_password
+AR009,أريد تغيير عنوان التوصيل لطلبي,ar,shipping,course_arabic_tickets,change_shipping_address
+AR033,كيف أتواصل مع خدمة العملاء؟,ar,contact,course_arabic_tickets,contact_customer_service
+AR061,أحتاج نسخة من فاتورة طلبي,ar,invoices,course_arabic_tickets,get_invoice
+EN018,My card was charged twice.,en,payments,authored_demonstration,
+AR038,ابي اكلم موظف الحين لو سمحت,ar,contact,course_arabic_tickets,contact_human_agent
+EN016,I need to stop my order before shipment.,en,cancellations,authored_demonstration,
+AR076,انسحبت الفلوس مرتين على نفس الطلب عاجل,ar,payments,course_arabic_tickets,payment_issue
+EN024,I need a tax invoice.,en,invoices,authored_demonstration,
+AR077,أرغب في تقديم طلب شراء جديد,ar,orders,course_arabic_tickets,place_order
+AR063,كيف أحصل على فاتورة الشراء؟,ar,invoices,course_arabic_tickets,get_invoice
+AR016,لو رفضت الاستلام بيخصمون علي شي؟,ar,cancellations,course_arabic_tickets,check_cancellation_fee
+AR084,حسابي انقفل وما اقدر ادخل,ar,account,course_arabic_tickets,recover_password
+AR072,سجلوني في النشرة عشان توصلني العروض,ar,newsletter,course_arabic_tickets,newsletter_subscription
+AR054,متى يوصل الطلب عادة؟,ar,shipping,course_arabic_tickets,delivery_period
+AR015,هل توجد رسوم على إلغاء طلب الأثاث؟,ar,cancellations,course_arabic_tickets,check_cancellation_fee

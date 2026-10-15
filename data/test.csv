@@ -1,0 +1,34 @@
+ticket_id,text,lang,gold_category,source,intent
+EN026,How do I create an account?,en,account,authored_demonstration,
+AR008,غلطت في اللون، ودي اعدل الطلب,ar,orders,course_arabic_tickets,change_order
+AR058,ابي اغير الايميل حقي في الحساب,ar,account,course_arabic_tickets,edit_account
+EN013,Can I cancel an order after shipping?,en,cancellations,authored_demonstration,
+AR100,ودي اغير نوع حسابي,ar,account,course_arabic_tickets,switch_account
+EN022,Please send me the receipt.,en,invoices,authored_demonstration,
+EN030,I need customer service.,en,contact,authored_demonstration,
+AR024,اقدر ادفع بأبل باي؟,ar,payments,course_arabic_tickets,check_payment_methods
+AR108,صار لي عشرة ايام وما رجع المبلغ,ar,refunds,course_arabic_tickets,track_refund
+AR004,الرجاء إلغاء طلبي فوراً قبل شحنه,ar,cancellations,course_arabic_tickets,cancel_order
+AR040,هل يمكنني التحدث مع ممثل خدمة عملاء بشري؟,ar,contact,course_arabic_tickets,contact_human_agent
+AR069,أريد الاشتراك في النشرة البريدية,ar,newsletter,course_arabic_tickets,newsletter_subscription
+AR037,أريد التحدث مع موظف حقيقي وليس روبوت,ar,contact,course_arabic_tickets,contact_human_agent
+AR013,كم رسوم إلغاء الطلب بعد الشحن؟,ar,cancellations,course_arabic_tickets,check_cancellation_fee
+AR082,نسيت الباسوورد ابي استرجعه,ar,account,course_arabic_tickets,recover_password
+EN017,Which payment methods can I use?,en,payments,authored_demonstration,
+AR088,التسجيل يعلق عندي ما يكمل,ar,account,course_arabic_tickets,registration_problems
+AR020,ابي اشوف تفاصيل الفاتورة حقت الطلب الأخير,ar,invoices,course_arabic_tickets,check_invoice
+AR011,انتقلت إلى شقة جديدة، كيف أحدث عنوان الشحن للطلب الحالي؟,ar,shipping,course_arabic_tickets,change_shipping_address
+AR089,أود كتابة تقييم للمنتج الذي اشتريته,ar,feedback,course_arabic_tickets,review
+AR050,عندكم توصيل بنفس اليوم؟,ar,shipping,course_arabic_tickets,delivery_options
+AR032,تجربة سيئة مرة، المنتج وصل مكسور وما احد رد علي,ar,feedback,course_arabic_tickets,complaint
+AR081,نسيت كلمة المرور ولا أستطيع الدخول,ar,account,course_arabic_tickets,recover_password
+EN005,Can I change my shipping address?,en,shipping,authored_demonstration,
+EN037,How do I subscribe to the newsletter?,en,newsletter,authored_demonstration,
+AR062,ابي الفاتورة الضريبية للطلب A-77120,ar,invoices,course_arabic_tickets,get_invoice
+EN034,How do I submit a complaint?,en,feedback,authored_demonstration,
+EN011,Is a gift card refundable?,en,refunds,authored_demonstration,
+AR022,تقبلون مدى ولا بس فيزا؟,ar,payments,course_arabic_tickets,check_payment_methods
+EN001,How can I track my order?,en,orders,authored_demonstration,
+AR025,ما هي سياسة الاسترجاع لديكم؟,ar,refunds,course_arabic_tickets,check_refund_policy
+AR007,هل يمكنني إضافة منتج آخر إلى الطلب A-30581؟,ar,orders,course_arabic_tickets,change_order
+AR093,أريد إضافة عنوان شحن جديد في حسابي,ar,shipping,course_arabic_tickets,set_up_shipping_address

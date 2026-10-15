@@ -1,0 +1,83 @@
+ticket_id,text,lang,gold_category,source,intent
+AR095,أرغب في حفظ عنوان افتراضي للتوصيل,ar,shipping,course_arabic_tickets,set_up_shipping_address
+AR030,والله شي ما يصير، ثالث مرة يتأخر الطلب!!,ar,feedback,course_arabic_tickets,complaint
+AR001,أريد إلغاء الطلب رقم A-48213 لأنني لم أعد بحاجة إليه,ar,cancellations,course_arabic_tickets,cancel_order
+EN008,What delivery options are available?,en,shipping,authored_demonstration,
+AR034,ابي رقم خدمة العملاء,ar,contact,course_arabic_tickets,contact_customer_service
+AR068,رجعوا لي فلوسي بسرعة لو سمحت,ar,refunds,course_arabic_tickets,get_refund
+AR059,كيف أحدّث بياناتي الشخصية؟,ar,account,course_arabic_tickets,edit_account
+AR073,تم خصم المبلغ مرتين من بطاقتي!!,ar,payments,course_arabic_tickets,payment_issue
+AR018,الفاتورة فيها مبلغ مو واضح ابي اتأكد منه,ar,invoices,course_arabic_tickets,check_invoice
+AR087,تظهر رسالة خطأ عند إنشاء الحساب,ar,account,course_arabic_tickets,registration_problems
+AR097,أريد تحويل حسابي من شخصي إلى حساب أعمال,ar,account,course_arabic_tickets,switch_account
+EN025,I forgot my password.,en,account,authored_demonstration,
+AR039,حولني على أحد من الموظفين,ar,contact,course_arabic_tickets,contact_human_agent
+AR019,هل الضريبة مضافة في فاتورتي؟,ar,invoices,course_arabic_tickets,check_invoice
+AR075,فشلت عملية الدفع عدة مرات، ما المشكلة؟,ar,payments,course_arabic_tickets,payment_issue
+EN023,How do I download an invoice?,en,invoices,authored_demonstration,
+AR104,متى يوصل طلبي؟ ابي رقم التتبع,ar,orders,course_arabic_tickets,track_order
+EN003,Where is my order confirmation?,en,orders,authored_demonstration,
+AR046,ابي امسح حسابي وبياناتي كلها,ar,account,course_arabic_tickets,delete_account
+AR074,الدفع ما ضبط بس انخصم المبلغ من حسابي,ar,payments,course_arabic_tickets,payment_issue
+AR023,هل يمكن الدفع عند الاستلام؟,ar,payments,course_arabic_tickets,check_payment_methods
+AR005,أرغب في تعديل الكمية في طلبي الأخير,ar,orders,course_arabic_tickets,change_order
+EN002,Can I change my order quantity?,en,orders,authored_demonstration,
+EN014,How do I cancel my order?,en,cancellations,authored_demonstration,
+AR096,ابي اضبط عنوان التوصيل في الحساب,ar,shipping,course_arabic_tickets,set_up_shipping_address
+AR048,احذفوا حسابي لو سمحتوا ما عاد ابيه,ar,account,course_arabic_tickets,delete_account
+AR085,لا يصلني رمز التحقق عند التسجيل,ar,account,course_arabic_tickets,registration_problems
+AR053,كم يستغرق التوصيل إلى جدة؟,ar,shipping,course_arabic_tickets,delivery_period
+EN021,Where can I find my invoice?,en,invoices,authored_demonstration,
+AR051,هل يوجد توصيل سريع إلى الدمام؟,ar,shipping,course_arabic_tickets,delivery_options
+AR098,ابي احول الحساب لحساب شركة,ar,account,course_arabic_tickets,switch_account
+AR103,أريد تتبع الشحنة الخاصة بالطلب A-55821,ar,orders,course_arabic_tickets,track_order
+AR078,ابي اطلب جوال من عندكم كيف؟,ar,orders,course_arabic_tickets,place_order
+AR036,وين القى طريقة اتواصل معكم؟,ar,contact,course_arabic_tickets,contact_customer_service
+AR067,كيف أطلب استرجاع المبلغ؟,ar,refunds,course_arabic_tickets,get_refund
+AR080,ودي اشتري هالمنتج وش الطريقة؟,ar,orders,course_arabic_tickets,place_order
+AR026,كم يوم عندي عشان ارجع المنتج؟,ar,refunds,course_arabic_tickets,check_refund_policy
+AR090,ابي اكتب رأيي عن الخدمة,ar,feedback,course_arabic_tickets,review
+AR002,كيف ألغي طلبي؟ طلبته بالغلط,ar,cancellations,course_arabic_tickets,cancel_order
+AR012,ممكن توصلون الطلب على عنوان شغلي بدل البيت؟,ar,shipping,course_arabic_tickets,change_shipping_address
+AR071,كيف أوقف رسائل العروض على بريدي؟,ar,newsletter,course_arabic_tickets,newsletter_subscription
+AR060,ودي اغير اسمي في الحساب,ar,account,course_arabic_tickets,edit_account
+AR079,كيف أقوم بعملية شراء من الموقع؟,ar,orders,course_arabic_tickets,place_order
+EN035,Where can I rate my purchase?,en,feedback,authored_demonstration,
+AR066,ابي فلوسي ترجع، المنتج ما يشتغل,ar,refunds,course_arabic_tickets,get_refund
+EN036,I want to report poor service.,en,feedback,authored_demonstration,
+AR057,أريد تعديل رقم الجوال في حسابي,ar,account,course_arabic_tickets,edit_account
+EN032,Please connect me to an agent.,en,contact,authored_demonstration,
+EN040,I want marketing emails.,en,newsletter,authored_demonstration,
+AR099,كيف أنتقل إلى نوع حساب مختلف؟,ar,account,course_arabic_tickets,switch_account
+EN028,I cannot log in.,en,account,authored_demonstration,
+AR006,ابي اغير المقاس في الطلب اللي سويته قبل شوي,ar,orders,course_arabic_tickets,change_order
+AR045,أرغب في حذف حسابي نهائياً,ar,account,course_arabic_tickets,delete_account
+AR064,ارسلولي الفاتورة على الايميل,ar,invoices,course_arabic_tickets,get_invoice
+AR101,أين طلبي؟ لم يصل حتى الآن,ar,orders,course_arabic_tickets,track_order
+AR094,كيف اضيف عنواني الوطني؟,ar,shipping,course_arabic_tickets,set_up_shipping_address
+AR092,ودي اقيم المنتج، المنتج ممتاز,ar,feedback,course_arabic_tickets,review
+EN038,Please unsubscribe me.,en,newsletter,authored_demonstration,
+AR070,ابي الغي اشتراكي في الرسائل الترويجية,ar,newsletter,course_arabic_tickets,newsletter_subscription
+AR086,احاول اسجل وما يرضى يقبل رقمي,ar,account,course_arabic_tickets,registration_problems
+AR055,كم يوم يحتاج الشحن العادي؟,ar,shipping,course_arabic_tickets,delivery_period
+AR029,خدمتكم سيئة جداً والمندوب تعامل معي بطريقة غير لائقة,ar,feedback,course_arabic_tickets,complaint
+EN020,Can I pay using Apple Pay?,en,payments,authored_demonstration,
+AR049,ما هي خيارات التوصيل المتاحة؟,ar,shipping,course_arabic_tickets,delivery_options
+EN012,My card refund has not arrived.,en,refunds,authored_demonstration,
+AR017,أريد مراجعة الفاتورة رقم INV-2024-00731,ar,invoices,course_arabic_tickets,check_invoice
+EN007,Can I reschedule my delivery?,en,shipping,authored_demonstration,
+AR065,أريد استرداد المبلغ لأن المنتج وصل تالفاً,ar,refunds,course_arabic_tickets,get_refund
+AR003,ابي اكنسل الطلب قبل لا يتشحن,ar,cancellations,course_arabic_tickets,cancel_order
+AR047,كيف أغلق حسابي لديكم؟,ar,account,course_arabic_tickets,delete_account
+AR056,لو طلبت اليوم متى يوصلني؟,ar,shipping,course_arabic_tickets,delivery_period
+AR043,ما هي خطوات التسجيل في الموقع؟,ar,account,course_arabic_tickets,create_account
+AR105,لم يصلني المبلغ المسترد حتى الآن,ar,refunds,course_arabic_tickets,track_refund
+EN029,How do I contact a human agent?,en,contact,authored_demonstration,
+AR035,ما هي ساعات عمل الدعم الفني؟,ar,contact,course_arabic_tickets,contact_customer_service
+AR107,ما هي حالة طلب الاسترداد الخاص بي؟,ar,refunds,course_arabic_tickets,track_refund
+EN015,Is there a cancellation fee?,en,cancellations,authored_demonstration,
+AR052,اقدر استلم الطلب من نقطة استلام؟,ar,shipping,course_arabic_tickets,delivery_options
+AR014,فيه غرامة لو كنسلت الطلب؟,ar,cancellations,course_arabic_tickets,check_cancellation_fee
+EN019,Why was my payment declined?,en,payments,authored_demonstration,
+AR106,وين وصل استرجاع فلوسي؟,ar,refunds,course_arabic_tickets,track_refund
+EN010,How do I return an item for a refund?,en,refunds,authored_demonstration,

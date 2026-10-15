@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "intelligent-support-ticket-assistant"
+version = "0.1.0"
+description = "Bilingual e-commerce support ticket assistant comparing rules, RAG, and prompt-only LLMs"
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.24,<3", "openai>=1.30,<3", "gradio>=4.44,<7"]
+
+[project.optional-dependencies]
+rag = ["sentence-transformers>=3,<6", "rank-bm25>=0.2.2,<1"]
+local = ["transformers>=4.45,<5", "torch>=2.2,<3", "accelerate>=0.30,<2"]
+test = ["pytest>=8,<10"]
+
+[tool.setuptools.packages.find]
+include = ["src*", "evaluation*"]
