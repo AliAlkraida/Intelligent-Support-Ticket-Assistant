@@ -1,6 +1,6 @@
 # Intelligent Support Ticket Assistant
 
-A bilingual (Arabic/English) e-commerce ticket assistant comparing three approaches using the SDAIA Applied NLP course materials.
+A bilingual (Arabic/English) e-commerce ticket assistant comparing three approaches: Knowledge-based, RAG, and LLM prompting.
 
 **SDAIA Academy:** https://github.com/SDAIAAcademy
 
